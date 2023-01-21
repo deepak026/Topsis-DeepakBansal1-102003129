@@ -7,8 +7,8 @@ setup(
   description = 'This package is implimentation of multi-criteria decision analysis using topsis',   # Give a short description about your library
   author = 'Deepak Bansal',                   # Type in your name
   author_email = 'deepakbansal2609@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/deepak026/Topsis_DeepakBansal_102003129',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/deepak026/Topsis_DeepakBansal_102003129/archive/refs/tags/v_0.1.tar.gz',    # I explain this later on
+  url = 'https://github.com/deepak026/Topsis_DeepakBansal1_102003129',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/deepak026/Topsis_DeepakBansal1_102003129/archive/refs/tags/v_0.1.tar.gz',    # I explain this later on
   keywords = ['topsis'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
